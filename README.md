@@ -13,7 +13,7 @@ An alert box that displays 'The answer to the ultimate question: 2112'
 An alert box that displays 'Undefined'
 
 An alert box that displays 'The answer to the ultimate question: {theAnswer}'
-
+ 1
 
 <hr/>
 
@@ -22,14 +22,16 @@ An alert box that displays 'The answer to the ultimate question: {theAnswer}'
 Given the following code:
 
 ```
-function goDoIt(doWhat) {
+function goDoIt(doWhat)
+{
     alert(`Just go and ${doWhat}`);
 }
 
 slacker =
 {
     whatDoYouDo : "Same as you do!",
-    goDoIt : function() {
+    goDoIt : function()
+    {
         alert();
     }
 }
@@ -46,6 +48,8 @@ An alert box saying "Just go and Get a Job!"
 
 No alert dialog box but an error instead
 
+
+1
 <hr/>
 
 ### Try/Catch/Throw
@@ -108,6 +112,8 @@ Glad to be done!
 
 
 
+
+
 Starting the process...  
 
 Error: Something went wrong 
@@ -133,6 +139,8 @@ Error: Error: Something went wrong
 The outer finally block   
 
 Glad to be done! 
+
+3
 
 
 <hr/>
@@ -270,6 +278,12 @@ http://localhost:35132/Account/FormTest?first=John&last=Doe
 
 http://localhost:35132/Account/FormTest/GET/#first=John?last=Doe
 
+4
+
+
+\
+\
+
 <hr/>
 
 ### HTML5 Form Elements how fields are submitted
@@ -309,7 +323,7 @@ You load the following page:
                            }
                   }
 
-                  functionKeys.forEach(function (k) { func1(k) });
+\                  functionKeys.forEach(function (k) { func1(k) });
                   console.log(result);
          </script>
 </body>
@@ -325,6 +339,8 @@ F1F2F3F5F2F3F5F5F3F5
 F1F2F3F5
 
 F1F2F5F3
+
+3
 
 
 <hr/>
@@ -365,6 +381,8 @@ A list of random letters between A and F
 A list of empty spaces
 
 A list of random letters
+
+4
 
 
 <hr/>
@@ -407,3 +425,8 @@ You load the following page in the browser:
 111
 
 123
+   
+   
+   
+   
+   3
