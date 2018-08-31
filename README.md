@@ -13,7 +13,9 @@ An alert box that displays 'The answer to the ultimate question: 2112'
 An alert box that displays 'Undefined'
 
 An alert box that displays 'The answer to the ultimate question: {theAnswer}'
- 1
+ 
+ 
+ 3
 
 <hr/>
 
@@ -140,8 +142,10 @@ The outer finally block
 
 Glad to be done! 
 
-3
 
+
+
+1
 
 <hr/>
 
@@ -197,6 +201,12 @@ The type is: string with value '5'
 The type is: string with value '8/11/2017'  
 
 
+
+
+
+
+3
+
 <hr/>
 
 ### Typeof/null/undefined/hoisting
@@ -243,6 +253,10 @@ undefined
 Nothing because an error will display in the console
 
 
+
+3
+
+
 <hr/>
 
 ### HTML5 Form Elements how fields are submitted
@@ -278,7 +292,7 @@ http://localhost:35132/Account/FormTest?first=John&last=Doe
 
 http://localhost:35132/Account/FormTest/GET/#first=John?last=Doe
 
-4
+2
 
 
 \
@@ -340,7 +354,7 @@ F1F2F3F5
 
 F1F2F5F3
 
-3
+1
 
 
 <hr/>
@@ -382,7 +396,10 @@ A list of empty spaces
 
 A list of random letters
 
-4
+
+
+
+1
 
 
 <hr/>
@@ -426,7 +443,7 @@ You load the following page in the browser:
 
 123
    
-   
+   2
    
    
    3
